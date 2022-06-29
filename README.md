@@ -1,3 +1,3 @@
 # Bug_Bounty
 
-Everything related to Bug Bounty
+Everything you need to know about Bug Bounty
